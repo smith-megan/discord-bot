@@ -1,4 +1,4 @@
-secrets.bat
+secrets.sh
 *.pyc
 env
 venv1
